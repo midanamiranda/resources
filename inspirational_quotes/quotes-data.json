@@ -1,0 +1,419 @@
+{
+   "count":40,
+   "totalCount":1995,
+   "results":[
+      {
+         "tags":[
+            "friendship",
+            "love"
+         ],
+         "_id":"-0DZUCVFcb",
+         "content":"Friendship is Love without his wings!",
+         "author":"Lord Byron",
+         "length":37
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "life"
+         ],
+         "_id":"-14YplwiKmh",
+         "content":"A short saying often contains much wisdom.",
+         "author":"Sophocles",
+         "length":42
+      },
+      {
+         "tags":[
+            "wisdom"
+         ],
+         "_id":"-1B7G54OXj",
+         "content":"Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.",
+         "author":"Sidney Hook",
+         "length":103
+      },
+      {
+         "tags":[
+            "wisdom",
+            "motivation"
+         ],
+         "_id":"-4WQ_JwFWI",
+         "content":"The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.",
+         "author":"Thomas Edison",
+         "length":112
+      },
+      {
+         "tags":[
+            "gratitude",
+            "wisdom"
+         ],
+         "_id":"-7Iml38SvH",
+         "content":"We should all be thankful for those people who rekindle the inner spirit.",
+         "author":"Albert Schweitzer",
+         "length":73
+      },
+      {
+         "tags":[
+            "wisdom",
+            "gratitude"
+         ],
+         "_id":"-7eqy9t642",
+         "content":"Applause is a receipt, not a bill.",
+         "author":"Dale Carnegie",
+         "length":34
+      },
+      {
+         "tags":[
+            "wisdom",
+            "doubt",
+            "heroism"
+         ],
+         "_id":"-93zOmlMP9",
+         "content":"A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+         "author":"Ralph Waldo Emerson",
+         "length":79
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "life"
+         ],
+         "_id":"-CXvcGgw_i0X",
+         "content":"The eye sees only what the mind is prepared to comprehend.",
+         "author":"Henri Bergson",
+         "length":58
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "wisdom",
+            "atitude"
+         ],
+         "_id":"-CzNrWMGIg8V",
+         "content":"Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+         "author":"Bruce Lee",
+         "length":82
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "motivation",
+            "self-improve"
+         ],
+         "_id":"-DUavsjRcctX",
+         "content":"Can you imagine what I would do if I could do all I can?",
+         "author":"Sun Tzu",
+         "length":56
+      },
+      {
+         "tags":[
+            "wisdom",
+            "knowledge"
+         ],
+         "_id":"-GABSGde5f",
+         "content":"Knowledge speaks, but wisdom listens.",
+         "author":"Jimi Hendrix",
+         "length":37
+      },
+      {
+         "tags":[
+            "wisdom",
+            "friendship"
+         ],
+         "_id":"-Hqy06gxrO",
+         "content":"Real magic in relationships means an absence of judgement of others.",
+         "author":"Wayne Dyer",
+         "length":68
+      },
+      {
+         "tags":[
+            "famous-quotes"
+         ],
+         "_id":"-KQWifS-IfX",
+         "content":"Whatever happens, take responsibility.",
+         "author":"Tony Robbins",
+         "length":38
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "kindness",
+            "humanity"
+         ],
+         "_id":"-LwlAMmYmOG",
+         "content":"Kind words do not cost much. Yet they accomplish much.",
+         "author":"Blaise Pascal",
+         "length":54
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "wisdom",
+            "learning"
+         ],
+         "_id":"-ScvfiXp-jo-",
+         "content":"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+         "author":"Naguib Mahfouz",
+         "length":105
+      },
+      {
+         "tags":[
+            "inspirational",
+            "motivation"
+         ],
+         "_id":"-UwYfDF1M",
+         "content":"Skill to do comes of doing.",
+         "author":"Ralph Emerso",
+         "length":27
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "awareness",
+            "self-improvement"
+         ],
+         "_id":"-WcH-6LA9SC",
+         "content":"Who looks outside, dreams; who looks inside, awakes.",
+         "author":"Carl Jung",
+         "length":52
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "motivation",
+            "inspirational"
+         ],
+         "_id":"-ZGXOoJquO1",
+         "content":"By believing passionately in something that does not yet exist, we create it.",
+         "author":"Nikos Kazantzakis",
+         "length":77
+      },
+      {
+         "tags":[
+            "wisdom"
+         ],
+         "_id":"-ZfnGHueyp",
+         "content":"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.",
+         "author":"Archimedes",
+         "length":91
+      },
+      {
+         "tags":[
+            "technology",
+            "culture"
+         ],
+         "_id":"-aFzTtY-Ls",
+         "content":"Science and technology revolutionize our lives, but memory, tradition and myth frame our response.",
+         "author":"Arthur M. Schlesinger Jr.",
+         "length":98
+      },
+      {
+         "tags":[
+            "hard-work",
+            "inspirational"
+         ],
+         "_id":"-TxGPGdz$/",
+         "content":"Genius is one percent inspiration and ninety-nine percent perspication.",
+         "author":"Thomas Edison",
+         "length":71
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "unity",
+            "values"
+         ],
+         "_id":"-R151zWU%%",
+         "content":"A house divided against itself cannot stand.",
+         "author":"Abraham Lincoln",
+         "length":44
+      },
+      {
+         "tags":[
+            "wisdom",
+            "hard-work"
+         ],
+         "_id":"-GVRbXCR/$",
+         "content":"Difficulties increase the nearer we get to the goal.",
+         "author":"Johann Wolfgang von Goethe",
+         "length":52
+      },
+      {
+         "tags":[
+            "wisdom",
+            "inspirational"
+         ],
+         "_id":"-sVw8xYG/%",
+         "content":"Fate is in your hands and no one elses.",
+         "author":"Byron Pulsifer",
+         "length":38
+      },
+      {
+         "tags":[
+            "knowledge",
+            "wisdom"
+         ],
+         "_id":"-L3Rl9J7##",
+         "content":"Well begun is half done.",
+         "author":"Aristotle",
+         "length":34
+      },
+      {
+         "tags":[
+            "self-improvement",
+            "resilience"
+         ],
+         "_id":"-fdcMerT$*",
+         "content":"Self-complacency is fatal to progress.",
+         "author":"Margaret Sangster",
+         "length":38
+      },
+      {
+         "tags":[
+            "wisdom",
+            "awareness"
+         ],
+         "_id":"-Eb9IK31!!",
+         "content":"Peace comes from within. Do not seek it without.",
+         "author":"Buddha",
+         "length":48
+      },
+      {
+         "tags":[
+            "love",
+            "kindness"
+         ],
+         "_id":"-aSFhxTz#&",
+         "content":"We can only learn to love by loving.",
+         "author":"Iris Murdoch",
+         "length":36
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "wisdom",
+            "atitude"
+         ],
+         "_id":"-XvXidOn&/",
+         "content":"Life is change. Growth is optional. Choose wisely.",
+         "author":"Karen Clark",
+         "length":50
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "motivation",
+            "self-improve",
+            "funny"
+         ],
+         "_id":"-tQQfp9a!/",
+         "content":"Having nothing, nothing can he lose.",
+         "author":"William Shakespear",
+         "length":35
+      },
+      {
+         "tags":[
+            "wisdom",
+            "knowledge"
+         ],
+         "_id":"-AcuWt7H+%",
+         "content":"A rolling stone gathers no moss",
+         "author":"Publilius Syrus",
+         "length":31
+      },
+      {
+         "tags":[
+            "wisdom",
+            "funny"
+         ],
+         "_id":"-S8Qtn3P+!",
+         "content":"Everything in life is luck.",
+         "author":"Donald Trump",
+         "length":27
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "learning",
+            "self-improvement"
+         ],
+         "_id":"-bv8vu6q&$",
+         "content":"From error to error one discovers the entire truth.",
+         "author":"Sigmund Freud",
+         "length":51
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "hard-work"
+         ],
+         "_id":"-u4EGgve+#",
+         "content":"Well done is better than well said.",
+         "author":"Benjamin Franklin",
+         "length":35
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "wisdom",
+            "hope"
+         ],
+         "_id":"-r9bYMfp%/",
+         "content":"Once you choose hope, anythings possible.",
+         "author":"Christopher Reeve",
+         "length":41
+      },
+      {
+         "tags":[
+            "inspirational",
+            "motivation",
+            "integrity"
+         ],
+         "_id":"-6aDXAs7+/",
+         "content":"Be as you wish to seem.",
+         "author":"Socrates",
+         "length":23
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "awareness",
+            "self-improvement"
+         ],
+         "_id":"-QeRwHVM#!",
+         "content":"Never mistake activity for achievement.",
+         "author":"John Wooden",
+         "length":39
+      },
+      {
+         "tags":[
+            "famous-quotes",
+            "kindness",
+            "humanity"
+         ],
+         "_id":"-5n1xooX%+",
+         "content":"Be kind whenever possible. It is always possible.",
+         "author":"Dalai Lama",
+         "length":49
+      },
+      {
+         "tags":[
+            "flower",
+            "life"
+         ],
+         "_id":"-amT2f0t$&",
+         "content":"A weed is no more than a flower in disguise.",
+         "author":"James Lowell",
+         "length":44
+      },
+      {
+         "tags":[
+            "motivation",
+            "hard-work"
+         ],
+         "_id":"-2HFlJhP%+",
+         "content":"Don't wait. The time will never be just right.",
+         "author":"Napoleon Hill",
+         "length":46
+      }
+   ]
+}
