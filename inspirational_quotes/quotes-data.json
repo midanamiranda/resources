@@ -10,7 +10,7 @@
          "_id":"-0DZUCVFcb",
          "content":"Friendship is Love without his wings!",
          "author":"Lord Byron",
-         "length":37
+         "background_resource_ref":37
       },
       {
          "tags":[
@@ -20,7 +20,7 @@
          "_id":"-14YplwiKmh",
          "content":"A short saying often contains much wisdom.",
          "author":"Sophocles",
-         "length":42
+         "background_resource_ref":42
       },
       {
          "tags":[
@@ -29,7 +29,7 @@
          "_id":"-1B7G54OXj",
          "content":"Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.",
          "author":"Sidney Hook",
-         "length":103
+         "background_resource_ref":103
       },
       {
          "tags":[
@@ -39,7 +39,7 @@
          "_id":"-4WQ_JwFWI",
          "content":"The three great essentials to achieve anything worth while are: Hard work, Stick-to-itiveness, and Common sense.",
          "author":"Thomas Edison",
-         "length":112
+         "background_resource_ref":112
       },
       {
          "tags":[
@@ -49,7 +49,7 @@
          "_id":"-7Iml38SvH",
          "content":"We should all be thankful for those people who rekindle the inner spirit.",
          "author":"Albert Schweitzer",
-         "length":73
+         "background_resource_ref":73
       },
       {
          "tags":[
@@ -59,7 +59,7 @@
          "_id":"-7eqy9t642",
          "content":"Applause is a receipt, not a bill.",
          "author":"Dale Carnegie",
-         "length":34
+         "background_resource_ref":34
       },
       {
          "tags":[
@@ -70,7 +70,7 @@
          "_id":"-93zOmlMP9",
          "content":"A hero is no braver than an ordinary man, but he is braver five minutes longer.",
          "author":"Ralph Waldo Emerson",
-         "length":79
+         "background_resource_ref":79
       },
       {
          "tags":[
@@ -80,7 +80,7 @@
          "_id":"-CXvcGgw_i0X",
          "content":"The eye sees only what the mind is prepared to comprehend.",
          "author":"Henri Bergson",
-         "length":58
+         "background_resource_ref":58
       },
       {
          "tags":[
@@ -91,7 +91,7 @@
          "_id":"-CzNrWMGIg8V",
          "content":"Take things as they are. Punch when you have to punch. Kick when you have to kick.",
          "author":"Bruce Lee",
-         "length":82
+         "background_resource_ref":82
       },
       {
          "tags":[
@@ -102,7 +102,7 @@
          "_id":"-DUavsjRcctX",
          "content":"Can you imagine what I would do if I could do all I can?",
          "author":"Sun Tzu",
-         "length":56
+         "background_resource_ref":56
       },
       {
          "tags":[
@@ -112,7 +112,7 @@
          "_id":"-GABSGde5f",
          "content":"Knowledge speaks, but wisdom listens.",
          "author":"Jimi Hendrix",
-         "length":37
+         "background_resource_ref":37
       },
       {
          "tags":[
@@ -122,7 +122,7 @@
          "_id":"-Hqy06gxrO",
          "content":"Real magic in relationships means an absence of judgement of others.",
          "author":"Wayne Dyer",
-         "length":68
+         "background_resource_ref":68
       },
       {
          "tags":[
@@ -131,7 +131,7 @@
          "_id":"-KQWifS-IfX",
          "content":"Whatever happens, take responsibility.",
          "author":"Tony Robbins",
-         "length":38
+         "background_resource_ref":38
       },
       {
          "tags":[
@@ -142,7 +142,7 @@
          "_id":"-LwlAMmYmOG",
          "content":"Kind words do not cost much. Yet they accomplish much.",
          "author":"Blaise Pascal",
-         "length":54
+         "background_resource_ref":54
       },
       {
          "tags":[
@@ -153,7 +153,7 @@
          "_id":"-ScvfiXp-jo-",
          "content":"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
          "author":"Naguib Mahfouz",
-         "length":105
+         "background_resource_ref":105
       },
       {
          "tags":[
@@ -163,7 +163,7 @@
          "_id":"-UwYfDF1M",
          "content":"Skill to do comes of doing.",
          "author":"Ralph Emerso",
-         "length":27
+         "background_resource_ref":27
       },
       {
          "tags":[
@@ -174,7 +174,7 @@
          "_id":"-WcH-6LA9SC",
          "content":"Who looks outside, dreams; who looks inside, awakes.",
          "author":"Carl Jung",
-         "length":52
+         "background_resource_ref":52
       },
       {
          "tags":[
@@ -185,7 +185,7 @@
          "_id":"-ZGXOoJquO1",
          "content":"By believing passionately in something that does not yet exist, we create it.",
          "author":"Nikos Kazantzakis",
-         "length":77
+         "background_resource_ref":77
       },
       {
          "tags":[
@@ -194,7 +194,7 @@
          "_id":"-ZfnGHueyp",
          "content":"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.",
          "author":"Archimedes",
-         "length":91
+         "background_resource_ref":91
       },
       {
          "tags":[
@@ -204,7 +204,7 @@
          "_id":"-aFzTtY-Ls",
          "content":"Science and technology revolutionize our lives, but memory, tradition and myth frame our response.",
          "author":"Arthur M. Schlesinger Jr.",
-         "length":98
+         "background_resource_ref":98
       },
       {
          "tags":[
@@ -214,7 +214,7 @@
          "_id":"-TxGPGdz$/",
          "content":"Genius is one percent inspiration and ninety-nine percent perspication.",
          "author":"Thomas Edison",
-         "length":71
+         "background_resource_ref":71
       },
       {
          "tags":[
@@ -225,7 +225,7 @@
          "_id":"-R151zWU%%",
          "content":"A house divided against itself cannot stand.",
          "author":"Abraham Lincoln",
-         "length":44
+         "background_resource_ref":44
       },
       {
          "tags":[
@@ -235,7 +235,7 @@
          "_id":"-GVRbXCR/$",
          "content":"Difficulties increase the nearer we get to the goal.",
          "author":"Johann Wolfgang von Goethe",
-         "length":52
+         "background_resource_ref":52
       },
       {
          "tags":[
@@ -245,7 +245,7 @@
          "_id":"-sVw8xYG/%",
          "content":"Fate is in your hands and no one elses.",
          "author":"Byron Pulsifer",
-         "length":38
+         "background_resource_ref":38
       },
       {
          "tags":[
@@ -255,7 +255,7 @@
          "_id":"-L3Rl9J7##",
          "content":"Well begun is half done.",
          "author":"Aristotle",
-         "length":34
+         "background_resource_ref":34
       },
       {
          "tags":[
@@ -265,7 +265,7 @@
          "_id":"-fdcMerT$*",
          "content":"Self-complacency is fatal to progress.",
          "author":"Margaret Sangster",
-         "length":38
+         "background_resource_ref":38
       },
       {
          "tags":[
@@ -275,7 +275,7 @@
          "_id":"-Eb9IK31!!",
          "content":"Peace comes from within. Do not seek it without.",
          "author":"Buddha",
-         "length":48
+         "background_resource_ref":48
       },
       {
          "tags":[
@@ -285,7 +285,7 @@
          "_id":"-aSFhxTz#&",
          "content":"We can only learn to love by loving.",
          "author":"Iris Murdoch",
-         "length":36
+         "background_resource_ref":36
       },
       {
          "tags":[
@@ -296,7 +296,7 @@
          "_id":"-XvXidOn&/",
          "content":"Life is change. Growth is optional. Choose wisely.",
          "author":"Karen Clark",
-         "length":50
+         "background_resource_ref":50
       },
       {
          "tags":[
@@ -308,7 +308,7 @@
          "_id":"-tQQfp9a!/",
          "content":"Having nothing, nothing can he lose.",
          "author":"William Shakespear",
-         "length":35
+         "background_resource_ref":35
       },
       {
          "tags":[
@@ -318,7 +318,7 @@
          "_id":"-AcuWt7H+%",
          "content":"A rolling stone gathers no moss",
          "author":"Publilius Syrus",
-         "length":31
+         "background_resource_ref":31
       },
       {
          "tags":[
@@ -328,7 +328,7 @@
          "_id":"-S8Qtn3P+!",
          "content":"Everything in life is luck.",
          "author":"Donald Trump",
-         "length":27
+         "background_resource_ref":27
       },
       {
          "tags":[
@@ -339,7 +339,7 @@
          "_id":"-bv8vu6q&$",
          "content":"From error to error one discovers the entire truth.",
          "author":"Sigmund Freud",
-         "length":51
+         "background_resource_ref":51
       },
       {
          "tags":[
@@ -349,7 +349,7 @@
          "_id":"-u4EGgve+#",
          "content":"Well done is better than well said.",
          "author":"Benjamin Franklin",
-         "length":35
+         "background_resource_ref":35
       },
       {
          "tags":[
@@ -360,7 +360,7 @@
          "_id":"-r9bYMfp%/",
          "content":"Once you choose hope, anythings possible.",
          "author":"Christopher Reeve",
-         "length":41
+         "background_resource_ref":41
       },
       {
          "tags":[
@@ -371,7 +371,7 @@
          "_id":"-6aDXAs7+/",
          "content":"Be as you wish to seem.",
          "author":"Socrates",
-         "length":23
+         "background_resource_ref":23
       },
       {
          "tags":[
@@ -382,7 +382,7 @@
          "_id":"-QeRwHVM#!",
          "content":"Never mistake activity for achievement.",
          "author":"John Wooden",
-         "length":39
+         "background_resource_ref":39
       },
       {
          "tags":[
@@ -393,7 +393,7 @@
          "_id":"-5n1xooX%+",
          "content":"Be kind whenever possible. It is always possible.",
          "author":"Dalai Lama",
-         "length":49
+         "background_resource_ref":49
       },
       {
          "tags":[
@@ -403,7 +403,7 @@
          "_id":"-amT2f0t$&",
          "content":"A weed is no more than a flower in disguise.",
          "author":"James Lowell",
-         "length":44
+         "background_resource_ref":44
       },
       {
          "tags":[
@@ -413,7 +413,7 @@
          "_id":"-2HFlJhP%+",
          "content":"Don't wait. The time will never be just right.",
          "author":"Napoleon Hill",
-         "length":46
+         "background_resource_ref":46
       }
    ]
 }
